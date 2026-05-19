@@ -62,7 +62,7 @@ fun ProfileScreen(
                     )
                     Spacer(modifier = Modifier.height(16.dp))
                     Text(
-                        text = "Иванов Иван Иванович",
+                        text = "Шляпкин Николай Шляпкович",
                         style = MaterialTheme.typography.headlineSmall,
                         fontWeight = FontWeight.Bold
                     )
